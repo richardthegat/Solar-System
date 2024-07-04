@@ -3,7 +3,7 @@ body {
     display: flex;
     justify-content: center;
     align-items: center;
-    background-image: url("/img/stars.jpg)";
+    background-image: url("stars.jpg)";
 }
 
 .path{
