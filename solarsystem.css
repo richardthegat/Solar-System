@@ -3,7 +3,7 @@ body {
     display: flex;
     justify-content: center;
     align-items: center;
-    background-image: url(https://nightsky.jpl.nasa.gov/images/news/HDP_896.jpg);
+    background-image: url(stars.jpg);
 }
 
 .path{
