@@ -4,6 +4,8 @@ body {
     justify-content: center;
     align-items: center;
     background-image: url("https://nightsky.jpl.nasa.gov/images/news/HDP_896.jpg");
+    background-size: cover;
+    backgorund-repeat: no repeat;
 }
 
 .path{
